@@ -30,6 +30,7 @@ header {
     text-align: center;
     color: black;
     font-weight: bold;
+    text-shadow: 2px 2px white;
     background-image: url('../images/header.jpg');
     background-position: center;
     -webkit-background-size: cover;
